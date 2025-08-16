@@ -55,8 +55,7 @@ Use a saved video instead of webcam by changing the video input source in the sc
 Adjust morphological kernel size for more/less mask smoothing.
 
 📽️ Demo Preview
-<img src="demo.gif" alt="Invisibility Cloak Demo" width="500"/>
-(Replace with your own GIF or embed a YouTube video link.)
+
 
 👤 Author
 Pavan Gembali — LinkedIn | GitHub
